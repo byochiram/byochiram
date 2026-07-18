@@ -1,4 +1,4 @@
-## My Contribution Graph
+
 
 <picture>
   <source
